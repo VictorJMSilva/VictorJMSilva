@@ -1,4 +1,4 @@
-### Hi there, my name is Victor de Jesus, I have a degree in Architecture and Urbanism but as a technology lover, I decided to study analysis and systems development.👨‍💻
+### Hi there, my name is Victor de Jesus, I have a degree in Architecture and Urbanism but as a technology lover, I decided to study I.T.👨‍💻
 
 <div align="center">
   <a href="https://github.com/VictorJMSilva">
